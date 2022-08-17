@@ -1,0 +1,12 @@
+We consider the following dictionary
+
+d = {'Name': 'David', 'Email': 'david@gmail.com', 'Phone': 33354587, Age ': 27}
+
+
+Write a python program which creates a file named data.txt with following content
+
+
+name: David
+email: david@gmail.com
+phone: 33354587
+age: 27 
