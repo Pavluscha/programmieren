@@ -1,0 +1,62 @@
+{
+  "RUS": {
+    "bevolkerung": 145872260,
+    "bip": 1478570,
+    "territorie": 17098242,
+    "wahrung": "Rubel"
+  },
+  "GER": {
+    "bevolkerung": 83517046,
+    "bip": 3843340,
+    "territorie": 357022,
+    "wahrung": "Euro"
+  },
+  "USA": {
+    "bevolkerung": 329064917,
+    "bip": 20893750,
+    "territorie": 9525067,
+    "wahrung": "Dollar"
+  },
+  "CHN": {
+    "bevolkerung": 1433783692,
+    "bip": 14866740,
+    "territorie": 9596960,
+    "wahrung": "Renminbi"
+  },
+  "JPN": {
+    "bevolkerung": 126860299,
+    "bip": 5045100,
+    "territorie": 377975,
+    "wahrung": "Yen"
+  },
+  "GBR": {
+    "bevolkerung": 67530172,
+    "bip": 2709680,
+    "territorie": 243610,
+    "wahrung": "Pfund"
+  },
+  "IND": {
+    "bevolkerung": 1366417756,
+    "bip": 2660240,
+    "territorie": 3287263,
+    "wahrung": "Rupie"
+  },
+  "ITA": {
+    "bevolkerung": 60100075,
+    "bip": 1884940,
+    "territorie": 301340,
+    "wahrung": "Euro"
+  },
+  "BRA": {
+    "bevolkerung": 211049519,
+    "bip": 1444720,
+    "territorie": 8515770,
+    "wahrung": "Real"
+  },
+  "TUR": {
+    "bevolkerung": 83429607,
+    "bip": 719919,
+    "territorie": 783562,
+    "wahrung": "Lira"
+  }
+}
