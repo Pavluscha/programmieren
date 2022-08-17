@@ -1,0 +1,17 @@
+Write a python program that transforms a dictionary into an html table and saves the content to an html file called 'convert_dictionary.html'. Example for the dictionary:
+
+name_email = {'david': 'david@gmail.com', 'hafid': 'hafid@gmail.com', 'nathalie': 'nathalie@gmail.com', 'najib': 'najib@gmail.com'}
+
+the program should create an html file that displays the content in an html table: 
+
+---------------------------------
+| Name     |      E-Mail        |
+---------------------------------
+|  david   | david@gmail.com    |
+---------------------------------
+|  hafid   | hafid@gmail.com    |
+---------------------------------
+| nathalie | nathalie@gmail.com |
+---------------------------------
+| najib    | najib @ gmail.com  |
+---------------------------------
