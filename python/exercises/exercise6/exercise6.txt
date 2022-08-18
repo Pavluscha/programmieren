@@ -1,0 +1,1 @@
+Write a function in Python that allows to compare two lists and to tell us if these two lists have a common value or not.
