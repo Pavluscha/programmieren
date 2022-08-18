@@ -1,0 +1,7 @@
+Write a python program as a function which takes as a parameter a string s and which returns another string obtained from s by removing the spaces at the beginning of the string s and the spaces at the end of the string s without using the lstrip() neither any predefined method. Exemple if
+
+s = "     Hello    "
+
+, the function returns the string
+
+"Hello"
