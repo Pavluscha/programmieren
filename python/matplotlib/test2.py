@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.widgets import Button
 
 plt.rcParams['font.size'] = 18
-plt.rcParams["figure.figsize"] = (20,12)
+plt.rcParams["figure.figsize"] = (40,12)
 
 fig, ax = plt.subplots()
 ax.grid()
