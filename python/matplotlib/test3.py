@@ -41,8 +41,6 @@ def click_right(event):
     ind_x += 1
     draw_plot()
 
-
-
 axtop = plt.axes([0.1, 0.89, 0.03, 0.04])
 btop = Button(axtop, 'Top')
 btop.on_clicked(click_top)
