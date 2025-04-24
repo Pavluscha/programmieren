@@ -16,7 +16,7 @@ def Q(b):
     return b ^ rotate_left_32bit(b, 17)
 
 def R(b):
-    x = [5]*32
+    x = ['X']*32
     x[0] = 0
     last_index = 0
     for i in range(1,32):
